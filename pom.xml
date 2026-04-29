@@ -31,25 +31,32 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-assembly-plugin</artifactId>
         <version>3.6.0</version>
-        <configuration>
-          <archive>
-            <manifest>
-              <mainClass>scraper.ScraperMain</mainClass>
-            </manifest>
-          </archive>
-          <descriptorRefs>
-            <descriptorRef>jar-with-dependencies</descriptorRef>
-          </descriptorRefs>
-          <finalName>hw5-scraper</finalName>
-          <appendAssemblyId>false</appendAssemblyId>
-        </configuration>
         <executions>
           <execution>
-            <id>make-assembly</id>
+            <id>make-scraper</id>
             <phase>package</phase>
-            <goals>
-              <goal>single</goal>
-            </goals>
+            <goals><goal>single</goal></goals>
+            <configuration>
+              <archive>
+                <manifest><mainClass>scraper.ScraperMain</mainClass></manifest>
+              </archive>
+              <descriptorRefs><descriptorRef>jar-with-dependencies</descriptorRef></descriptorRefs>
+              <finalName>hw5-scraper</finalName>
+              <appendAssemblyId>false</appendAssemblyId>
+            </configuration>
+          </execution>
+          <execution>
+            <id>make-tree</id>
+            <phase>package</phase>
+            <goals><goal>single</goal></goals>
+            <configuration>
+              <archive>
+                <manifest><mainClass>tree.TreeMain</mainClass></manifest>
+              </archive>
+              <descriptorRefs><descriptorRef>jar-with-dependencies</descriptorRef></descriptorRefs>
+              <finalName>hw5-tree</finalName>
+              <appendAssemblyId>false</appendAssemblyId>
+            </configuration>
           </execution>
         </executions>
       </plugin>
