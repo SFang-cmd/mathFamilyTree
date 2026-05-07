@@ -29,7 +29,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 45244,Robin Alexander Pemantle,Massachusetts Institute of Technology,1988,Random Processes with Reinforcement,18747,Persi W. Diaconis,,,,,seed
 44604,Florian Pop,Ruprecht-Karls-Universität Heidelberg,1987,Galoische Kennzeichnung p-adisch abgeschlossener Körper,21608,Peter Roquette,,,,,seed
 14866,Gerald Joseph Porter,Cornell University,1963,Higher Order Whitehead Products,8587,William Browder,,,,,seed
-196392,Robert Powers,University of Houston,2001,,,,,,,,seed
+36309,Robert K. Powers,Virginia Polytechnic Institute and State University,1984,Chandrasekhar Algorithms for Distributed Parameter Systems,18103,John Allen Burns,,,,,seed
 23207,Andre Scedrov,State University of New York at Buffalo,1981,Sheaves and Forcing and Their Metamathematical Applications,13713,John R. Myhill,,,,,seed
 6581,Julius L. Shaneson,The University of Chicago,1968,Wall's Surgery Obstruction Groups for ZxG and Classification of 5-Manifolds,6677,Melvin Gordon Rothenberg,,,,,seed
 91164,"Robert Mills Strain, III",Brown University,2005,Some Applications of an Energy Method in Collisional Kinetic Theory,4511,Yan Guo,,,,,seed
@@ -373,7 +373,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 182359,Adam Topaz,University of Pennsylvania,2013,Commuting-Liftable Subgroups of Galois Groups,44604,Florian Pop,,,,,descendant
 8587,William Browder,Princeton University,1958,Homology of Loop Spaces,4350,John Coleman Moore,,,,,ancestor
 15136,Albert Oscar Shar,University of Pennsylvania,1970,The Homotopy Groups of Spaces whose Rational Cohomology is a Truncated Polynomial Algebra,14866,Gerald Joseph Porter,,,,,descendant
-196393,Kitty Lane Bostic Roach,University of Northern Colorado,2015,A Study of Novice Instructors' Questioning Techniques and Classroom Discourse Surrounding Those Questions,40157,Shandy Hauk,196392,Robert Powers,,,descendant
+18103,John Allen Burns,The University of Oklahoma,1973,Variational and Optimal Control Problems Involving Unbound Operators,18075,William Thomas Reid,,,,,ancestor
 13713,John R. Myhill,Harvard University,1949,A Semantically Complete Foundation for Logic and Mathematics,73831,Willard Van Orman Quine,13303,Lynn Harold Loomis,,,ancestor
 111296,Pedro Adão,Universidade Técnica de Lisboa,2006,Formal Methods for the Analysis of Security Protocols,111254,Paulo Mateus,23207,Andre Scedrov,,,descendant
 23136,Moez Alimohamed,University of Pennsylvania,1994,A Characterization of Lambda Definability in Categorical Models of Implicit Polymorphism,23207,Andre Scedrov,,,,,descendant
@@ -924,6 +924,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 213087,Nithi Rungtanapirom,Johann Wolfgang Goethe-Universität Frankfurt am Main,2017,Quaternionic arithmetic lattices or rank 2 and a fake quadric in characteristic 2,64882,Jakob M. Stix,,,,,descendant
 171636,Johannes Schmidt,Ruprecht-Karls-Universität Heidelberg,2013,Anabelian aspects in the etale homotopy theory of Brauer-Severi varieties,64882,Jakob M. Stix,,,,,descendant
 15133,Curtis Paul Murley,University of New Hampshire,1974,"H-Structures on Sp(2), Su(4) and Related Spaces",12771,"Arthur Herbert Copeland, Jr.",15136,Albert Oscar Shar,,,descendant
+18075,William Thomas Reid,University of Texas at Austin,1929,Properties of Solutions of an Infinite System of Ordinary Linear Differential Equations of the First Order with Auxiliary Boundary Conditions,4928,Hyman Joseph Ettlinger,,,,,ancestor
 73831,Willard Van Orman Quine,Harvard University,1932,The Logic of Sequences: A Generalization of Principia Mathematica,78732,Alfred North Whitehead,,,,,ancestor
 13303,Lynn Harold Loomis,Harvard University,1942,Some Studies on Simply-Connected Riemann Surfaces: I. The Problem of Imbedding II. Mapping on the Boundary for Two Classes of Surfaces,8038,Salomon Bochner,,,,,ancestor
 298534,Keith O'Neill,University of Ottawa,2017,Smoothness in Codifferential Categories,23137,Richard Blute,,,,,descendant
@@ -1296,6 +1297,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 34710,Samuel Stanley Wilks,The University of Iowa,1931,On the Distributions of Statistics in Samples from a Normal Population of Two Variables with Matched Sampling of One Variable,38458,Henry Lewis Rietz,,,,,ancestor
 15860,John Wilder Tukey,Princeton University,1939,On Denumerability in Topology,7461,Solomon Lefschetz,,,,,ancestor
 34268,Kurt Hensel,Universität Berlin,1884,Arithmetische Untersuchungen über Diskriminaten und ihre außerwesentlichen Teiler,17982,Leopold Kronecker,,,,,ancestor
+4928,Hyman Joseph Ettlinger,Harvard University,1920,I. Existence theorems for the General Real Self-Adjoint Linear System of the Second Order II. Oscillation Theorems for the Real Self-Adjoint Linear System of the Second Order,5879,George David Birkhoff,,,,,ancestor
 78732,Alfred North Whitehead,University of Cambridge,1884,,343840,William Davidson Niven,101929,Edward John Routh,,,ancestor
 8038,Salomon Bochner,Universität Berlin,1921,Über orthogonale Systeme analytischer Funktionen,7361,Erhard Schmidt,,,,,ancestor
 305352,Agustín Pablo Borgna,Université de Lorraine,2023,Vers une formalisation d'une chaîne de compilation pour un ordinateur quantique,121256,Simon Perdrix,128432,Benoît Valiron,,,descendant
@@ -1540,7 +1542,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 102043,Adam Sedgwick,University of Cambridge,1811,(none),102036,Thomas Jones,102037,John Dawson,,,ancestor
 112602,George Peacock,University of Cambridge,1816,,128703,John Hudson,,,,,ancestor
 112601,William Whewell,University of Cambridge,,,121280,John Gough,,,,,ancestor
-13344,Kazimierz Twardowski,Universität Wien,1891,Idea and Perception—An Epistemological Investigation of Descartes,141831,Robert Zimmermann,,,,,ancestor
+13344,Kazimierz Twardowski,Universität Wien,1891,Idea and Perception—An Epistemological Investigation of Descartes,15176,Franz Clemens Brentano,141831,Robert Zimmermann,,,ancestor
 67041,John Trowbridge,Harvard University,1873,"I. A New Form of Galvanometer. II. On the Electromotive Actions of Liquids Separated by Membranes. III. On the Electrical Conditin of Gas Flames, IV. Ohm’s Law Considered from a Geometrical Point of View. V. Induced Currents and Derived Circuits",132487,Joseph Lovering,,,,,ancestor
 84657,Albert Potter Wills,Clark University,1897,On the Susceptibility of Diamagnetic and Weakly Magnetic Substances,84506,Arthur Gordon Webster,,,,,ancestor
 51469,Werner Karl Heisenberg,Ludwig-Maximilians-Universität München,1923,Über Stabilität und Turbulenz von Flüssigkeitsströmen,31357,Arnold Johannes Wilhelm Sommerfeld,,,,,ancestor
@@ -1594,6 +1596,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 102037,John Dawson,,,,129421,Edward Waring,129422,Henry Bracken,,,ancestor
 128703,John Hudson,,,,,,,,,,ancestor
 121280,John Gough,,,,,,,,,,ancestor
+15176,Franz Clemens Brentano,Eberhard-Karls-Universität Tübingen,1862,Von der mannigfachen Bedeutung des Seienden nach Aristoteles,28227,Franz Jakob Clemens,60803,Friedrich Adolf Trendelenburg,,,ancestor
 141831,Robert Zimmermann,Universität Wien,1846,,96330,Bernard(us) Placidus Johann Nepomuk Bolzano,,,,,ancestor
 132487,Joseph Lovering,Harvard University,1833,The Application of the Principle of Fluxions to the Solution of Different Problems,80886,Benjamin Peirce,,,,,ancestor
 84506,Arthur Gordon Webster,Universität Berlin,1890,Versuche über eine Methode zur Bestimmung des Verhältnisses der elektromagnetischen zur elektrostatischen Einheit der Elektricität,49057,Hermann Ludwig Ferdinand von Helmholtz,,,,,ancestor
@@ -1637,6 +1640,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 103066,John Cranke,University of Cambridge,1774,,,,,,,,ancestor
 129421,Edward Waring,University of Cambridge,1760,,,,,,,,ancestor
 129422,Henry Bracken,Universiteit Leiden,,,101856,Herman Boerhaave,,,,,ancestor
+28227,Franz Jakob Clemens,Universität Berlin,1839,De philosophia Anaxagorae Clazomenii,,,,,,,ancestor
+60803,Friedrich Adolf Trendelenburg,Universität Berlin,1826,Platonis de ideis et numeris doctrina ex Aristotele illustrata,126894,Georg Ludwig König,35141,Karl Reinhold,,,ancestor
 96330,Bernard(us) Placidus Johann Nepomuk Bolzano,University of Prague,1805,Betrachtungen über einige Gegenstände der Elementargeometrie,96327,Franz Josef Ritter von Gerstner,,,,,ancestor
 80886,Benjamin Peirce,Harvard University,1829,,147797,Nathaniel Bowditch,,,,,ancestor
 50522,Walter Morley Fletcher,University of Cambridge,1904,,95539,John Newport Langley,,,,,ancestor
@@ -1674,6 +1679,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 294942,Léonor Caron,Collège Mazarin,1710,,112689,Pierre Varignon,,,,,ancestor
 133367,Stephen Whisson,University of Cambridge,1742,Taylor was Whisson's Cambridge tutor,133368,Walter Taylor,,,,,ancestor
 101856,Herman Boerhaave,Universiteit Leiden,1690,Disputatio philosophica inauguralis de distinctione mentis a corpore,115155,Wolferd Senguerdius,101858,Burchard de Volder,,,ancestor
+126894,Georg Ludwig König,Georg-August-Universität Göttingen,1790,,126124,Christian Gottlob Heyne,,,,,ancestor
+35141,Karl Reinhold,Friedrich-Schiller-Universität Jena,1787,Briefe über die Kantische Philosophie,106921,Immanuel Kant,,,,,ancestor
 96327,Franz Josef Ritter von Gerstner,Karl-Ferdinand-Universität Prag,1776,,143129,Joseph Stepling,143091,Jan Tesánek,,,ancestor
 147797,Nathaniel Bowditch,,,,,,,,,,ancestor
 95539,John Newport Langley,University of Cambridge,1874,,95540,Micheal Foster,,,,,ancestor
@@ -1708,6 +1715,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 133368,Walter Taylor,University of Cambridge,1723,Note that Smith (who was a student of Cotes) was Taylor's Cambridge tutor,103068,Robert Smith,,,,,ancestor
 115155,Wolferd Senguerdius,Athenaeum Illustre Amsterdam,1666,Compendium physicae,115471,Arnold Senguerdius,,,,,ancestor
 101858,Burchard de Volder,Universiteit Utrecht,1660,"De Simplicitate Dei, Echo et Republica",114945,Johannes de Bruyn,101860,Franciscus de le Boë Sylvius,,,ancestor
+126124,Christian Gottlob Heyne,Universität Leipzig,1752,Disputatio de jure praediatorio,126120,Johann August Bach,126119,Johann August Ernesti,,,ancestor
+106921,Immanuel Kant,Universität Königsberg,1770,Meditationum quarundam de igne succincta delineatio; Principiorum primorum cognitionis metaphysicae nova dilucidatio,106922,Martin Knutzen,,,,,ancestor
 143129,Joseph Stepling,Universitas Carolina Prague,1743,,143130,Ignatz Mühlwenzel,,,,,ancestor
 143091,Jan Tesánek,,1748,,143129,Joseph Stepling,,,,,ancestor
 95540,Micheal Foster,University of London,1859,,95541,Thomas Henry Huxley,113082,William Sharpey,,,ancestor
@@ -1741,6 +1750,9 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 115471,Arnold Senguerdius,Universiteit Leiden,1630,"Dispvtationvm theologicarvm, quæ ex ordine repeti consueverunt, vigesima tertia, de Vetero & Novo Testamento",115395,Antonius Thysius,115008,Franck Pieterszoon Burgersdijk,,,ancestor
 114945,Johannes de Bruyn,Universiteit Utrecht,1644,,114927,Daniel Berckringer,,,,,ancestor
 101860,Franciscus de le Boë Sylvius,Universiteit Leiden and Universität Basel,1634,"Positiones Variae Medicae ; De animali motu, ejusque laesionibus [English: On Animal Movement and its Disorders]",125023,Adolph Vorstius,125125,Emmanuel Stupanus,,,ancestor
+126120,Johann August Bach,Universität Leipzig,1744,Dissertatio de modo regum appellandorum apud veteres Romanos,126895,Christian Wilhelm Küstner,127636,Johann Friedrich Christ,,,ancestor
+126119,Johann August Ernesti,Universität Leipzig,1730,,127647,Johann Matthias Gesner,,,,,ancestor
+106922,Martin Knutzen,Universität Königsberg,1732,"Dissertatio inauguralis de concordia rationis cum fide, in locis, de iustitia Dei",47793,Christian M. von Wolff,,,,,ancestor
 143130,Ignatz Mühlwenzel,,,,,,,,,,ancestor
 113082,William Sharpey,,1823,De Ventriculi Carcinomate,,,,,,,ancestor
 321682,Humphry Davy,,,,,,,,,,ancestor
@@ -1770,6 +1782,9 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 115008,Franck Pieterszoon Burgersdijk,Universiteit Leiden,1614,,114992,Gilbert Jacchaeus,,,,,ancestor
 114927,Daniel Berckringer,Rijksuniversiteit Groningen,1640,,144265,Martinus Schoock,,,,,ancestor
 125023,Adolph Vorstius,Universiteit Leiden,1619,De motu,114992,Gilbert Jacchaeus,125006,Adriaan van den Spieghel,,,ancestor
+126895,Christian Wilhelm Küstner,Universität Leipzig,1742,Dissertatio prima de ritu pignorum capiendorum apud veteres Romanos,126119,Johann August Ernesti,,,,,ancestor
+127636,Johann Friedrich Christ,Martin-Luther-Universität Halle-Wittenberg,1727,Historia legis Scatiniae : Antiquorum codicum testimoniis emendandis illustrandis passim distincta,127671,Karl Gottlieb Knorre,,,,,ancestor
+127647,Johann Matthias Gesner,Friedrich-Schiller-Universität Jena,1715,Institutiones rei scholasticae,127646,Johann Franz Buddeus,,,,,ancestor
 125107,Johann Gottfried von Berger,Friedrich-Schiller-Universität Jena,1682,"Dissertatio inauguralis de circulatione lymphae, et catarrhis",125143,Augustin Heinrich Fasch,,,,,ancestor
 143630,Friedrich Leibniz,Universität Leipzig,1622,,,,,,,,ancestor
 127801,Aegidius Strauch,Martin-Luther-Universität Halle-Wittenberg,1633,Disputatio Physica De Elementis In Genere Et In Specie,127734,Nicolaus Zapf,,,,,ancestor
@@ -1793,6 +1808,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 114992,Gilbert Jacchaeus,University of St. Andrews,1601,De libero arbitrio;,128122,Duncan Liddel,126489,Jacobus (Jacob Harmensz.) Arminius,,,ancestor
 144265,Martinus Schoock,Universiteit Utrecht,1636,,144264,Henricus Renerius,132468,Gisbertus Voetius,,,ancestor
 125006,Adriaan van den Spieghel,Università degli Studi di Padova and Université Catholique de Louvain,1603,,125109,Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius,,,,,ancestor
+127671,Karl Gottlieb Knorre,Martin-Luther-Universität Halle-Wittenberg,1721,Dissertatione inaug. differentias iuris Romani et Germanici de senatoribus et consulibus,127803,Johann Peter von Ludewig,,,,,ancestor
+127646,Johann Franz Buddeus,Martin-Luther-Universität Halle-Wittenberg,1687,De Symbolis eucharisticis,127962,Michael d. J. Walther,228334,Johann Wilhelm Baier,,,ancestor
 125143,Augustin Heinrich Fasch,Friedrich-Schiller-Universität Jena,1663,Thea misoptochos vulgo medicorum opprobrium podagra,125154,Werner Rolfinck,,,,,ancestor
 127734,Nicolaus Zapf,Friedrich-Schiller-Universität Jena,1622,De Justificatione Hominis Coram Deo,127424,Erasmus Schmidt,189659,Abraham Heinecke,127848,Jacobus Martini,ancestor
 125154,Werner Rolfinck,Martin-Luther-Universität Halle-Wittenberg,1618,,126111,Daniel Sennert,125006,Adriaan van den Spieghel,,,ancestor
@@ -1818,6 +1835,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 144264,Henricus Renerius,Universiteit Leiden,1617,Disputatio theologica de precatione,144263,Johannes Polyander van Kerckhoven,115008,Franck Pieterszoon Burgersdijk,,,ancestor
 132468,Gisbertus Voetius,Universiteit Leiden,1611,,132488,Franciscus (François Gomaer) Gomarus,,,,,ancestor
 125109,Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius,Università degli Studi di Padova,1559,,125142,Gabriele Falloppio,,,,,ancestor
+127803,Johann Peter von Ludewig,Martin-Luther-Universität Halle-Wittenberg,1690,,127945,Samuel Stryk,127946,Christian Thomasius,,,ancestor
+228334,Johann Wilhelm Baier,Friedrich-Schiller-Universität Jena,1673,"Qua Dialogi Erbermanniani, Inter Lutherum & Arium, fictitiis eius Trophaeis inserti, excutiuntur",232627,Sebastian Niemann,,,,,ancestor
 127424,Erasmus Schmidt,Martin-Luther-Universität Halle-Wittenberg,1592,,127898,Sethus Calvisius,127942,Petrus Otto,,,ancestor
 189659,Abraham Heinecke,,,,,,,,,,ancestor
 127848,Jacobus Martini,Universität Helmstedt,1596,,128105,Cornelius Martini,,,,,ancestor
@@ -1844,6 +1863,9 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 144263,Johannes Polyander van Kerckhoven,Ruprecht-Karls-Universität Heidelberg,1589,Thesium theol. de autoritate scripturae S. : locus primus et alter,144262,"François Du Jon, Sr.",131821,Theodorus (Théodore de Bèze) Beza,,,ancestor
 132488,Franciscus (François Gomaer) Gomarus,Collège Saint-Guillaume à Strasbourg,1580,,125665,Johannes (Johann Sturm) Sturmius,144262,"François Du Jon, Sr.",,,ancestor
 125142,Gabriele Falloppio,Università degli Studi di Padova and Università degli Studi di Ferrara,1547,,127245,Antonio Musa Brasavola,125303,Matteo Realdo (Renaldus Columbus) Colombo,,,ancestor
+127945,Samuel Stryk,,,,,,,,,,ancestor
+127946,Christian Thomasius,Universität Leipzig,1672,,137717,Valentin Alberti,137705,Jakob Thomasius,177440,Johann Friedrich Rhetius,ancestor
+232627,Sebastian Niemann,,,,,,,,,,ancestor
 127898,Sethus Calvisius,Universität Leipzig,1582,,127864,Nikolaus Selnecker,127790,Moritz Valentin Steinmetz,,,ancestor
 127942,Petrus Otto,,,,,,,,,,ancestor
 128105,Cornelius Martini,Universität Helmstedt,1591,THESES DE NATVRA LOGICAE AD VNIVERSVM ARISTOTELIS Organon,200006,Albert Clampius,128122,Duncan Liddel,,,ancestor
@@ -1875,6 +1897,8 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 125665,Johannes (Johann Sturm) Sturmius,Université Catholique de Louvain,1527,,125658,Nicolas (Nicolaes Cleynaerts) Clénard,119159,Johannes Winter von Andernach,,,ancestor
 127245,Antonio Musa Brasavola,Università degli Studi di Ferrara,1520,,127166,Niccolò Leoniceno,,,,,ancestor
 125303,Matteo Realdo (Renaldus Columbus) Colombo,Università degli Studi di Padova,1544,,119178,Andreas (Andries van Wesel) Vesalius,,,,,ancestor
+137717,Valentin Alberti,Universität Leipzig,1678,,,,,,,,ancestor
+177440,Johann Friedrich Rhetius,Martin-Luther-Universität Halle-Wittenberg,1652,Pentas Quaestionum Logicarum ex doctrina Enunciationum desumptarum,194305,Josias Christoph Neander,,,,,ancestor
 127864,Nikolaus Selnecker,Martin-Luther-Universität Halle-Wittenberg,1570,,,,,,,,ancestor
 200006,Albert Clampius,Ruprecht-Karls-Universität Heidelberg,,De iure ususfructus,224249,Reinhard Bachoff von Echt,,,,,ancestor
 152904,Giovanni Battista della Monte,Università degli Studi di Ferrara,,,127166,Niccolò Leoniceno,152901,Marco Musuro,152903,Pietro Pomponazzi,ancestor
@@ -1903,6 +1927,7 @@ mgp_id,name,institution,year,dissertation,advisor1_id,advisor1_name,advisor2_id,
 125658,Nicolas (Nicolaes Cleynaerts) Clénard,Université Catholique de Louvain,1515,,125681,Jacobus (Jacques Masson) Latomus,125682,Jan (Johannes Campensis) van Campen,,,ancestor
 127166,Niccolò Leoniceno,Scuola Pubblica di Vicenza,1446,,149192,Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo,127144, Pelope,136726,Pietro Roccabonella,ancestor
 119178,Andreas (Andries van Wesel) Vesalius,Università degli Studi di Padova and Université Catholique de Louvain,1537,Paraphrasis in nonum librum Rhazae medici arabis clariss ad regem Almansorum de affectum singularum corporis partium curatione,119159,Johannes Winter von Andernach,119097,Gemma (Jemme Reinerszoon) Frisius,152904,Giovanni Battista della Monte,ancestor
+194305,Josias Christoph Neander,,,,,,,,,,ancestor
 224249,Reinhard Bachoff von Echt,Ruprecht-Karls-Universität Heidelberg,1598,,,,,,,,ancestor
 152901,Marco Musuro,Università degli Studi di Firenze,1486,,131541,Janus Lascaris,,,,,ancestor
 152902,Nicoletto Vernia,Università degli Studi di Padova,1458,,148882,Gaetano da Thiene,232228,Paolo da Pergola,,,ancestor
